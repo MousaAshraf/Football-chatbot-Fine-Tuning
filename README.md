@@ -1,4 +1,4 @@
-# ⚽ Sabaho Kora Football Q&A Chatbot
+# ⚽ Football-chatbot-Fine-Tuning
 
 A **football trivia question-answering chatbot** built using **Flan-T5-base** and fine-tuned with **LoRA (Low-Rank Adaptation)**.  
 The model can answer football-related questions with a few-shot prompt-based approach and is deployed via **Streamlit** with **ngrok** for online access.
@@ -23,6 +23,6 @@ This project leverages the **HuggingFace Transformers** library and a trivia dat
 Clone this repository and install dependencies:
 
 ```bash
-git clone https://github.com/yourusername/football-qa-chatbot.git
-cd football-qa-chatbot
+git clone https://github.com/yourusername/Football-chatbot-Fine-Tuning.git
+cd Football-chatbot-Fine-Tuning
 pip install -r requirements.txt
